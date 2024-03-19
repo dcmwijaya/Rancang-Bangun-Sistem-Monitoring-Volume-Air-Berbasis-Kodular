@@ -14,11 +14,12 @@ Segera Hadir...
 | --- | --- |
 | Papan Pengembangan | NodeMCU V3 ESP8266 Lolin |
 | Editor Kode | Visual Studio Code |
+| Dukungan Aplikasi | Kodular |
 | Ekstensi | PlatformIO IDE |
 | Driver | USB-Serial CH340 |
-| Platform IoT | • Firebase<br>• Kodular |
 | Protokol Komunikasi | • Inter Integrated Circuit (I2C)<br>• Hypertext Transfer Protocol (HTTP) |
 | Arsitektur IoT | 4 Lapisan |
+| Basis Data | Firebase |
 | Bahasa Pemrograman | C/C++ |
 | Pustaka Arduino | • ESP8266WiFi (bawaan)<br>• Firebase_Arduino_Client_Library_for_ESP8266_and_ESP32 |
 | Sensor | SEN-0009: Ketinggian Air (x1) |
