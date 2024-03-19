@@ -14,11 +14,12 @@ Coming Soon...
 | --- | --- |
 | Development Board | NodeMCU V3 ESP8266 Lolin |
 | Code Editor | Visual Studio Code |
+| Application Support | Kodular |
 | Extensions | PlatformIO IDE |
 | Driver | USB-Serial CH340 |
-| IoT Platform | • Firebase<br>• Kodular |
 | Communications Protocol | Transmission Control Protocol/Internet Protocol (TCP/IP) |
 | IoT Architecture | 4 Layer |
+| Database | Firebase |
 | Programming Language | C/C++ |
 | Arduino Library | • ESP8266WiFi (default)<br>• Firebase_Arduino_Client_Library_for_ESP8266_and_ESP32 |
 | Sensor | SEN-0009: Water Level (x1) |
