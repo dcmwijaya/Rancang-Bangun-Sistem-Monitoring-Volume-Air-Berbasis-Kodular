@@ -57,8 +57,8 @@ Coming Soon...
 <th width="420">Infrastructure</th>
 </tr>
 <tr>
-<td><img src="" alt="Block-Diagram"></td>
-<td><img src="" alt="Infrastructure"></td>
+<td><img src="https://github.com/devancakra/Rancang-Bangun-Sistem-Monitoring-Volume-Air-Berbasis-Kodular/assets/54527592/9850956b-87f0-4a96-ba65-a80f94167d17" alt="Block-Diagram"></td>
+<td><img src="https://github.com/devancakra/Rancang-Bangun-Sistem-Monitoring-Volume-Air-Berbasis-Kodular/assets/54527592/aa3d7424-4859-4488-b0d4-8513868b1b79" alt="Infrastructure"></td>
 </tr>
 </table>
 <table>
