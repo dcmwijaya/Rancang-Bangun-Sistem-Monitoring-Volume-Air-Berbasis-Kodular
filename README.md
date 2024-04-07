@@ -16,7 +16,7 @@ Coming Soon...
 | Code Editor | Visual Studio Code |
 | Application Support | Kodular |
 | Extensions | PlatformIO IDE |
-| Driver | USB-Serial CH340 |
+| Driver | CH340 USB Driver |
 | Communications Protocol | Transmission Control Protocol/Internet Protocol (TCP/IP) |
 | IoT Architecture | 4 Layer |
 | Database | Firebase |
@@ -28,24 +28,24 @@ Coming Soon...
 <br><br>
 
 ## Download & Install
-1. Visual Studio Code
+1. Arduino IDE
 
    <table><tr><td width="810">
-         
+
    ```
-   https://code.visualstudio.com/docs/?dv=win
+   https://bit.ly/ArduinoIDE_Installer
    ```
 
    </td></tr></table><br>
-   
-2. USB-Serial CH340
+
+2. CH340 USB Driver
 
    <table><tr><td width="810">
-   
+
    ```
-   https://bit.ly/CH340_Driver
+   https://bit.ly/CH340_USB_Driver
    ```
-   
+
    </td></tr></table>
    
 <br><br>
