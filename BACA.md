@@ -1,7 +1,8 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?style=flat)](https://github.com/ellerbrock/open-source-badges/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?logo=github&color=%23F7DF1E)](https://opensource.org/licenses/MIT)
-![GitHub last commit](https://img.shields.io/github/last-commit/devancakra/Rancang-Bangun-Sistem-Monitoring-Volume-Air-Berbasis-Kodular)
-![Project](https://img.shields.io/badge/Project-Mobile%20IoT-light.svg?style=flat&logo=arduino&logoColor=white&color=%23F7DF1E)
+![GitHub last commit](https://img.shields.io/github/last-commit/devancakra/Rancang-Bangun-Sistem-Monitoring-Volume-Air-Berbasis-Kodular?logo=Codeforces&logoColor=white&color=%23F7DF1E)
+![Project](https://img.shields.io/badge/Project-NodeMCU-light.svg?style=flat&logo=espressif&logoColor=white&color=%23F7DF1E)
+![Type](https://img.shields.io/badge/Type-Personal%20Experiment-light.svg?style=flat&logo=gitbook&logoColor=white&color=%23F7DF1E)
 
 # Rancang-Bangun-Sistem-Monitoring-Volume-Air-Berbasis-Kodular
 <strong>Proyek Tunggal: Rancang Bangun Sistem Monitoring Volume Air Berbasis Kodular</strong><br><br>
@@ -57,8 +58,8 @@ Segera Hadir...
 <th width="420">Infrastruktur</th>
 </tr>
 <tr>
-<td><img src="https://github.com/devancakra/Rancang-Bangun-Sistem-Monitoring-Volume-Air-Berbasis-Kodular/assets/54527592/9850956b-87f0-4a96-ba65-a80f94167d17" alt="Block-Diagram"></td>
-<td><img src="https://github.com/devancakra/Rancang-Bangun-Sistem-Monitoring-Volume-Air-Berbasis-Kodular/assets/54527592/aa3d7424-4859-4488-b0d4-8513868b1b79" alt="Infrastructure"></td>
+<td><img src="Assets/Documentation/Diagram/Block Diagram.jpg" alt="block-diagram"></td>
+<td><img src="Assets/Documentation/Diagram/Infrastructure.jpg" alt="infrastructure"></td>
 </tr>
 </table>
 <table>
@@ -67,8 +68,8 @@ Segera Hadir...
 <th width="420">Pengkabelan</th>
 </tr>
 <tr>
-<td><img src="" alt="Pictorial-Diagram"></td>
-<td><img src="" alt="Wiring"></td>
+<td><img src="Assets/Documentation/Diagram/Pictorial Diagram.jpg" alt="pictorial-diagram"></td>
+<td><img src="Assets/Documentation/Table/Device Wiring.jpg" alt="wiring"></td>
 </tr>
 </table>
 
@@ -124,9 +125,9 @@ Coming Soon...
 <th width="280">Kodular</th>
 </tr>
 <tr>
-<td><img src="" alt="Device"></td>
-<td><img src="" alt="Firebase"></td>
-<td><img src="" alt="Kodular"></td>
+<td><img src="Assets/Documentation/Experiment/Device.jpg" alt="device"></td>
+<td><img src="Assets/Documentation/Experiment/Device.jpg" alt="firebase"></td>
+<td><img src="Assets/Documentation/Experiment/Device.jpg" alt="kodular"></td>
 </tr>
 </table>
 <table>
@@ -134,7 +135,7 @@ Coming Soon...
 <th width="840">Aplikasi Seluler</th>
 </tr>
 <tr>
-<td><img src="" alt="Mobile-apps"></td>
+<td><img src="Assets/Documentation/Experiment/Device.jpg" alt="mobile-apps"></td>
 </tr>
 </table>
 
@@ -146,7 +147,7 @@ Jika karya ini bermanfaat bagi anda, maka dukunglah karya ini sebagai bentuk apr
 <br><br>
 
 ## Penafian
-Aplikasi ini dibuat dengan menyertakan sumber-sumber dari pihak ketiga. Pihak ketiga di sini adalah penyedia layanan, yang layanannya berupa pustaka, kerangka kerja, dan lain-lain. Saya ucapkan terima kasih banyak atas layanannya. Telah terbukti sangat membantu dan dapat diimplementasikan.
+Aplikasi ini merupakan hasil karya saya sendiri dan bukan merupakan hasil plagiat dari penelitian atau karya orang lain, kecuali yang berkaitan dengan layanan pihak ketiga yang meliputi: pustaka, kerangka kerja, dan lain sebagainya.
 
 <br><br>
 
