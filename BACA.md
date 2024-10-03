@@ -5,7 +5,6 @@
 ![Type](https://img.shields.io/badge/Type-Personal%20Experiment-light.svg?style=flat&logo=gitbook&logoColor=white&color=%23F7DF1E)
 
 # Rancang-Bangun-Sistem-Monitoring-Volume-Air-Berbasis-Kodular
-<strong>Proyek Tunggal: Rancang Bangun Sistem Monitoring Volume Air Berbasis Kodular</strong><br><br>
 Segera Hadir...
 
 <br><br>
