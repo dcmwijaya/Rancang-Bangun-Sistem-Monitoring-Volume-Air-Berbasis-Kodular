@@ -5,7 +5,6 @@
 ![Type](https://img.shields.io/badge/Type-Personal%20Experiment-light.svg?style=flat&logo=gitbook&logoColor=white&color=%23F7DF1E)
 
 # Rancang-Bangun-Sistem-Monitoring-Volume-Air-Berbasis-Kodular
-<strong>Solo Project: Design of a Kodular-based Water Volume Monitoring System</strong><br><br>
 Coming Soon...
 
 <br><br>
